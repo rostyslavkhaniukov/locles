@@ -1,0 +1,7 @@
+"Project-Id-Version: sss\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+msgctxt "ANALYTICS_API__WIDGET_DEFAULT"
+msgid "New Slates"
+msgstr "New Slates"
